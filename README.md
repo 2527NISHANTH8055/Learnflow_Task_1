@@ -1,0 +1,1 @@
+The goal of this project is to develop a model capable of predicting stock prices using historical market data. By leveraging machine learning techniques and financial analysis, we aim to forecast future stock prices accurately.
